@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hB92sifttDJUrw625nmPzjQG9y3/PlnWwTb/ayUnww1JBCukJowK+TaDOKbiQXE9UThQGuDMYunVjgRNjX6jbA==",
+  "dgSpecHash": "m+NjIyjqpG36YkZeFRRetvctMQenN/rrSyU08mGcdyKDP33O+4Z1FW7Q5q/HyIZsNgm6t9lyCpl1k42hhuAZpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APM02-041\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
   "logs": []
 }

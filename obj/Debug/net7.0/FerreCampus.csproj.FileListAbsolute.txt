@@ -26,3 +26,6 @@ C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\ob
 C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.pdb
 C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.genruntimeconfig.cache
 C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\ref\FerreCampus.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.csproj.AssemblyReference.cache
+C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.csproj.CopyComplete
