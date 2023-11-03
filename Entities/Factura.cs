@@ -11,5 +11,6 @@ namespace FerreCampus.Entities
         public DateTime Fecha { get; set; }
         public int IdCliente { get; set; }
         public decimal Total { get; set; }
+        public List<int> ListaProductos { get; set; }
     }
 }

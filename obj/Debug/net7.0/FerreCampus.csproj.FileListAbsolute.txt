@@ -12,3 +12,17 @@ C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\
 C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.pdb
 C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.genruntimeconfig.cache
 C:\Users\APM02-041\Desktop\CAMPUS\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\ref\FerreCampus.dll
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\FerreCampus.exe
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\FerreCampus.deps.json
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\FerreCampus.runtimeconfig.json
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\FerreCampus.dll
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\bin\Debug\net7.0\FerreCampus.pdb
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.AssemblyInfoInputs.cache
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.AssemblyInfo.cs
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.csproj.CoreCompileInputs.cache
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.dll
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\refint\FerreCampus.dll
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.pdb
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\FerreCampus.genruntimeconfig.cache
+C:\Users\ferch\OneDrive\Escritorio\Campus\.NetCore\practicas\Linq\FerreCampus\obj\Debug\net7.0\ref\FerreCampus.dll

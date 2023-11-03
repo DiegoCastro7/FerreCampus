@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj": {}
+    "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj": {
+    "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
+        "projectUniqueName": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
         "projectName": "FerreCampus",
-        "projectPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
-        "packagesPath": "C:\\Users\\APM02-041\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\.NetCore\\practicas\\Linq\\FerreCampus\\obj\\",
+        "projectPath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\FerreCampus.csproj",
+        "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\.NetCore\\practicas\\Linq\\FerreCampus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-041\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
